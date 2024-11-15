@@ -7,7 +7,7 @@ The chat application now includes a fully developed system for user authorizatio
 ![Auth](https://raw.githubusercontent.com/BUYZQ/ChatApplication/main/README_ASSETS/auth.jpg)
 
 # Code 
-``` class FirebaseAuthService {
+```dart class FirebaseAuthService {
   final FirebaseAuth _firebaseAuth = FirebaseAuth.instance;
   final CollectionReference _firestore =
       FirebaseFirestore.instance.collection('users');
