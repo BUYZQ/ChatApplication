@@ -1,4 +1,4 @@
-# chat_app_example
+# Chat application written in dart and flutters using firebase services
 
 A new Flutter project.
 
